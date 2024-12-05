@@ -3,7 +3,7 @@
 This is a web application designed to manage user authentication and quota listing efficiently. The app features three pages with distinct functionalities: Login Page, Quota Listing Page, and Add Quota Page. The application is deployed on a free domain, which might require multiple API recall attempts due to server limitations.
 
 ## Deployment Link
-[Visit the Kutumb App](https://amazing-marigold-f1de66.netlify.app/quota_list)
+[Visit the Kutumb App](https://amazing-marigold-f1de66.netlify.app)
 
 ## Source Code
 [GitLab Repository](https://gitlab.com/amit979/kutumbproject)
